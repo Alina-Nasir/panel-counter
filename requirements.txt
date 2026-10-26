@@ -1,12 +1,3 @@
 streamlit
-opencv-python-headless
-numpy
-scikit-learn
-matplotlib
-pytesseract
+PyMuPDF
 Pillow
-pandas
-plotly
-openai
-google-genai
-watchdog
